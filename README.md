@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-- By the end of this module, you will be able to: 
+By the end of this module, you will be able to: 
 
 - Perform tasks using new Python libraries and modules.
 
